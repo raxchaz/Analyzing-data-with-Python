@@ -19,4 +19,4 @@ a,b=map(str, input().split())
 a = list(map(int, input().split))
 
 #07. 2차원 리스트 입력 (아래는 10행 크기인 경우)
-a = [list(map(int, input().split())) for _ in range(10)]
+a = [list(map(int, input().split())) for _ in range(10)] zx
