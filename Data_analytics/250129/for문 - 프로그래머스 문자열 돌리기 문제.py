@@ -28,7 +28,7 @@ for fruit in fruits:
 def rotate_string_90():
 # The function does not take any arguments; it simply processes user input and rotates it by 90 degrees.
 
-s = input()
+S = input()
 lines = s.split('\n')
 # This line takes input from the user.
 # input() 은 한 줄만 받는 함수. 
